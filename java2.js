@@ -26,15 +26,15 @@ var firstName;
 
                 // illegal variables
 
-var 1name; // cannot start with a number
+// var 1name; // cannot start with a number
 
-var name variables; // space not allow
+// var name variables; // space not allow
 
-var function; // reserved keyword not allow
+// var function; // reserved keyword not allow
 
-var var; // reserved keyword not allow
+// var var; // reserved keyword not allow
 
-var @name; // special characters not allow
+// var @name; // special characters not allow
 // ..................................................................................................
 
                 // chapter5
